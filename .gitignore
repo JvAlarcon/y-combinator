@@ -1,3 +1,4 @@
+# Clojure
 /target
 /classes
 /checkouts
@@ -13,3 +14,30 @@ pom.xml.asc
 .clj-kondo/
 .lsp/
 .calva/
+
+# FSharp
+**/bin
+**/obj
+**/*.o
+**/*.so
+**/*.db
+.DS_Store
+.fake
+.idea
+.vs
+
+# Java
+.metadata
+bin/
+tmp/
+build/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+RemoteSystemsTempFiles/
+BitResources
+*.class
